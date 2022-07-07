@@ -1,0 +1,27 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px 10px 100px 10px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0 50px 0;
+    font-size: 1.7em;
+}
+
+h2 {
+    margin-top: 50px;
+    color: #1a8dff;
+}
+
+.responsive-img {
+    width: 100%;
+    height: auto;
+}
+
+hr {
+    margin: 40px 0;
+    border: solid 1px #e7e7e7;
+}
