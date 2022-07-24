@@ -6,14 +6,13 @@
 }
 
 h1 {
-    text-align: center;
-    margin: 20px 0 50px 0;
+    margin: 20px 0 30px 0;
     font-size: 1.7em;
 }
 
 h2 {
     margin-top: 50px;
-    color: #1a8dff;
+    color: #157ee6;
 }
 
 .responsive-img {
@@ -23,9 +22,29 @@ h2 {
 
 hr {
     margin: 40px 0;
-    border: solid 1px #e7e7e7;
+    border: solid 1px #ededed;
 }
 
 p, li {
     line-height: 1.5em;
+}
+
+
+.title-underline {
+    margin: 0px 0px 30px 0;
+    border: solid 2px #157ee6;
+    width: 50px;
+}
+
+.home-btn-top {
+    font-size: 13px;
+}
+
+.read-more-articles {
+    background-color: #eff9ff;
+    padding: 15px;
+}
+
+.home-btn-top a {
+    color: #808080;
 }
